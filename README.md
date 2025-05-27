@@ -1,2 +1,2 @@
-The system must have MATLAB installed.
-Install required Python libraries.
+1- The system must have MATLAB installed.
+2- Install required Python libraries.
